@@ -9,11 +9,11 @@ today I want to tell you some thing. all people donot have any laptop 💻 and p
 copy these commands and paste on your Termux and at the last process wait 🫸 for approx 12-15 minutes. then your serup completed
 
 </br>~ all packages should be update and upgrade
-```
+```PowerShell
 apt update && apt upgrade 
 ```
 </br>~ install git pakeage for clone this tool
-```
+```PowerShell
 pkg install git -y
 ```
 </br>~ clone kali-setup repository 
@@ -21,11 +21,11 @@ pkg install git -y
 git clone https://github.com/Cyber-Tech0/Kali-Setup
 ```
 <br>~ give executable permission 
-```
+```PowerShell
 chmod +x kali-setup.sh
 ```
 <br>~ run this tool using bash
-```
+```PowerShell
 ./kali-setup.sh
 ```
 #### NOTE : if you don't know this commands then you can try give blow single line command. dont worry do more practice then this commands will be easy for you
