@@ -69,4 +69,4 @@ apt update && apt upgrade -y && pkg install git -y && git clone https://github.c
 
 ### Test on Terminal
 - **Installation of Kali-Setup tool**
-
+- 
