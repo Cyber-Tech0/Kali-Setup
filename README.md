@@ -44,3 +44,4 @@ you want to set a password. but dont worry this tool 🔥 willbe run automatical
 1). LINK 🔗 — <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">VNC viewer</a><br>
 2). LINK 🔗 — <a href="https://store.nethunter.com/repo/com.offsec.nethunter.kex_11525001.apk">Nethunter Kex</a><br>
 
+[![GitHub Release](https://img.shields.io/github/v/release/Raphire/Win11Debloat?style=for-the-badge&label=Latest%20release)](https://github.com/Raphire/Win11Debloat/releases/latest)
