@@ -59,6 +59,9 @@ chmod +x kali-setup.sh
 apt update && apt upgrade -y && pkg install git -y && git clone https://github.com/Cyber-Tech0/Kali-Setup && cd Kali-Setup && chmod +x kali-setup.sh && ./kali-setup.sh
 ```
 
+### VNC viewers
+> you will be install vnc viewer for running of **kali nethunter**. you can download vnc viewers from play Store and other sources. you can download directly vnc viewer apk link given below
+
 ### Termux Commands
 > [!NOTE]
 > if you don't know about Termux commands. then first of all you want to learn termux commands. if you are are interested then you can download PDF file and easily learn termux commands. [PDF download](https://drive.google.com/file/d/1kYllkvP2s27dxKE5QCRPkA3hNc5kGS1l/view?usp=drivesdk)
