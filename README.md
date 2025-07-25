@@ -75,5 +75,6 @@ apt update && apt upgrade -y && pkg install git -y && git clone https://github.c
 ##
 **(2) setup VNC server**
 > this app link 🔗 given in above side. you can download this app. if you know other app then you can download
+##
 ![VNC setup](./VNC_setup.gif)
-
+##
