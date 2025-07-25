@@ -1,4 +1,3 @@
-
 <img src="AddText_07-25-02.46.59.png" height="100px" width="600px"/>
 
 <p align="center">
@@ -62,6 +61,8 @@ apt update && apt upgrade -y && pkg install git -y && git clone https://github.c
 
 ### Termux Commands
 > [!NOTE]
-> if you don't know about Termux commands. then first of all you want to learn termux commands. if you are are interested then you can download PDF file and easily learn termux commands. [PDF](https://drive.google.com/file/d/1kYllkvP2s27dxKE5QCRPkA3hNc5kGS1l/view?usp=drivesdk)
+> if you don't know about Termux commands. then first of all you want to learn termux commands. if you are are interested then you can download PDF file and easily learn termux commands. [PDF download](https://drive.google.com/file/d/1kYllkvP2s27dxKE5QCRPkA3hNc5kGS1l/view?usp=drivesdk)
 
 
+### Google cloud shell
+<a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Cyber-Tech0/Kali-Setup.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
