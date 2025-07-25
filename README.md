@@ -1,4 +1,4 @@
-<img src="AddText_07-25-02.46.59.png" height="100px" width="600px"/>
+<img src="logo.png" height="100px" width="600px"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/author-Khalidx456-blue" />
