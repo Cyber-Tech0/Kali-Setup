@@ -68,5 +68,5 @@ apt update && apt upgrade -y && pkg install git -y && git clone https://github.c
 <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/Cyber-Tech0/Kali-Setup.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
 
 ### Test on Terminal
-- **Installation of Kali-Setup tool**
-- 
+**Installation of Kali-Setup tool**
+![Installation](./installation_kali.gif)
