@@ -35,3 +35,12 @@ chmod +x kali-setup.sh
 apt update && apt upgrade && pkg install git -y && git clone https://github.com/Cyber-Tech0/Kali-Setup && chmod +x kali-setup.sh && ./kali-setup.sh
 ```
 
+## after installation of nethunter 
+you want to set a password. but dont worry this tool 🔥 willbe run automatically. after complete nethunter installation process. automatically ask your password 🔑 what do you want to take. and after complete 💯 all process. 
+
+#### follow these steps
+~ 1. install this app give below 👇 you can install other app. <br>
+
+1). LINK 🔗 — <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android">VNC viewer</a><br>
+2). LINK 🔗 — <a href="https://store.nethunter.com/repo/com.offsec.nethunter.kex_11525001.apk">Nethunter Kex</a><br>
+
