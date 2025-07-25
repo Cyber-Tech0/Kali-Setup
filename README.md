@@ -69,5 +69,11 @@ apt update && apt upgrade -y && pkg install git -y && git clone https://github.c
 
 ### Test on Terminal
 **(1) Installation of Kali-Setup tool**
+> If any person follow these steps. then kali nethunter setup his terminal easily 
 ##
 ![Installation](./installation_kali.gif)
+##
+**(2) setup VNC server**
+> this app link 🔗 given in above side. you can download this app. if you know other app then you can download
+![VNC setup](./VNC_setup.gif)
+
