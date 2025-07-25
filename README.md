@@ -87,3 +87,13 @@ apt update && apt upgrade -y && pkg install git -y && git clone https://github.c
 ##
 ![VNC setup](./VNC_setup.gif)
 ##
+
+### Follow me
+
+<p align="left">
+  <a href="https://tahmidrayat.is-a.dev" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree">
+  </a>
+  
+  <a href="https://github.com/Cyber-Tech0" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
