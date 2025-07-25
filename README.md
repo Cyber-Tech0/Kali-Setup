@@ -1,5 +1,6 @@
 ## Hello 👋 I am khalid
 today I want to tell you some thing. all people donot have any laptop 💻 and pc but they want to became an developer or going to cyber security field. but when the first time come in this field. they dont know everything. and they want to run kali linux but most of the cases all person not carried laptop 💻 .but they dont know command. but don't worry today I tell you some steps thus steps will be very esay for beginners. you should not need to write ✍️ command. but you should follow these written below 👇 steps. and on the last step your kali setup completed.
+
 <br>
 <img src="logo.jpeg"></img>
 <br>
@@ -27,7 +28,7 @@ chmod +x kali-setup.sh
 ```
 ./kali-setup.sh
 ```
-#### NOTE : if you don't knoe this commands then you can try give blow single line command. dont worry do more practice then this commands will be easy for you
+#### NOTE : if you don't know this commands then you can try give blow single line command. dont worry do more practice then this commands will be easy for you
 
 ### single line commands
 ```
