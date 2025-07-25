@@ -51,7 +51,7 @@ chmod +x kali-setup.sh
 
 ## Installation (one line)
 > [!Tip]
-> - ifyou want to setup 📐 **kali nethunter** in your Android. but you don't know terminal commands then you can copy and paste this commands on your terminal and **follow given below steps.**
+> - if you want to setup 📐 **kali nethunter** in your Android. but you don't know terminal commands then you can copy and paste this commands on your terminal and **follow given below steps.**
 
 - one line commands past on your Termux and just press hit 🎯 enter.
 
