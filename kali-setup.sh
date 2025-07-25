@@ -46,6 +46,8 @@ then
   echo ""
   echo -e "${gr}[+] nethunter pkg installing...${nc}"
   wget -O install-nethunter-termux https://offs.ec/2MceZWr
+  chmod +x install-nethunter-termux
+  ./install-nethunter-termux
   nethunter kex passwd
 
 elif [[ $ARG -eq n ]]
