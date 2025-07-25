@@ -17,7 +17,7 @@ apt update && apt upgrade
 pkg install git -y
 ```
 </br>~ clone kali-setup repository 
-```
+```PowerShell
 git clone https://github.com/Cyber-Tech0/Kali-Setup
 ```
 <br>~ give executable permission 
