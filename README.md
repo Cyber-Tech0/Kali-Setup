@@ -63,9 +63,9 @@ apt update && apt upgrade -y && pkg install git -y && git clone https://github.c
 > you will be install vnc viewer for running of **kali nethunter**. you can download vnc viewers from play Store and other sources. you can download directly vnc viewer apk link given below
 ##
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android"><img src="vnc.jpg" height="27px" width="120px" margin="15px" /> 
+  <a href="https://play.google.com/store/apps/details?id=com.realvnc.viewer.android"><img src="Asset)vnc.jpg" height="27px" width="120px" margin="15px" /> 
   </a>
-  <a href="https://store.nethunter.com/repo/com.offsec.nethunter.kex_11525001.apk"><img src="kex.jpg" height="75px" width="120px" />   </a>
+  <a href="https://store.nethunter.com/repo/com.offsec.nethunter.kex_11525001.apk"><img src="Asset/kex.jpg" height="75px" width="120px" />   </a>
 </p>
 
 ### Termux Commands
